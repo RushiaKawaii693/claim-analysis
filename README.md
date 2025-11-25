@@ -49,14 +49,3 @@ seaborn>=0.11.0
 ```
 
 Install with: `pip install -r requirements.txt`
-
-## Repository Structure
-
-```
-claims-analysis/
-├── README.md
-├── requirements.txt
-├── data/              (CSV files - not in repo)
-└── notebooks/
-    └── claims_analysis.ipynb
-```
