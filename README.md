@@ -34,11 +34,11 @@ Files are connected by 'ProspectiveClaimId'. Data files are not included in the 
 
 ## Key Findings
 
--The top 5 providers account for the majority of billing activity. 
--The primary payer mix is dominated by a few major insurers. 
--The most prevalent procedures and diagnoses represent the hospital's main service lines.
--Average of X diagnosis codes and Y service lines per claim.
--Charges vary significantly amongst payers.
+- The top 5 providers account for the majority of billing activity. 
+- The primary payer mix is dominated by a few major insurers. 
+- The most prevalent procedures and diagnoses represent the hospital's main service lines.
+- Average of X diagnosis codes and Y service lines per claim.
+- Charges vary significantly amongst payers.
 
 ## Required Libraries
 
